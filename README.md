@@ -36,7 +36,7 @@ You can find these and more in my repositories! --->
 ## 📫 Let's Connect!
 
 - ✉️ [Email Me](mailto:ramagirijaidhar@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jaidhar-ramagiri)
+- 🌐 [LinkedIn](www.linkedin.com/in/jaidhar-ramagiri-3361082a7/)
 - 🌟 Always open to collaboration and new ideas!
 
 ---

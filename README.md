@@ -35,7 +35,7 @@ You can find these and more in my repositories! --->
 
 ## 📫 Let's Connect!
 
-- ✉️ [Email Me](mailto:ramagirijaidhar@iith.ac.in)
+- ✉️ [Email Me](mailto:ramagirijaidhar@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jaidhar-ramagiri)
 - 🌟 Always open to collaboration and new ideas!
 

@@ -1,6 +1,6 @@
 - # 👋 Hi there! I'm Jaidhar Ramagiri
 
-🎓 I'm currently a 2nd-year undergraduate student at **IIT Hyderabad**, pursuing **Engineering Physics**.  
+🎓 I'm currently a 3rd-year undergraduate student at **IIT Hyderabad**, pursuing **Engineering Physics**.  
 <!---⚛️ My interests lie at the intersection of **physics**, **mathematics**, and **computation**.--->
 
 ---

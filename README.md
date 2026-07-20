@@ -1,16 +1,16 @@
-- # 👋 Hi there! I'm Jaidhar Ramagiri
+- # 👋 Hi there! I'm Jaidhar
 
-🎓 I'm currently a 3rd-year undergraduate student at **IIT Hyderabad**, pursuing **Engineering Physics**.  
+🎓 I'm currently a 4th-year undergraduate student at **IIT Hyderabad**, pursuing **Engineering Physics**.  
 <!---⚛️ My interests lie at the intersection of **physics**, **mathematics**, and **computation**.--->
 
 ---
 
 ## 🚀 What I Do
 
-- 🧮 Computational Physics  
+- 🧠 Machine Learning & Simulations  
 - 📊 Data Analysis using Python  
 - 🔧 Python, C++, MATLAB, Bash  
-- 🧠 Machine Learning & Simulations  
+- 🧮 Computational Physics  
 - 🧪 Research in physics-based modeling & numerical methods
   
 <!---
@@ -24,12 +24,6 @@
 - 💻 **Numerical Solvers** – Implemented shooting method, Runge-Kutta solvers, eigenvalue estimators, etc.
 
 You can find these and more in my repositories! --->
-
----
-
-## 🌱 Currently Learning
-
-- Machine Learning 
 
 ---
 
